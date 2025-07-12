@@ -1,0 +1,41 @@
+complaint_text,category,vader_scores,sentiment,polarity,subjectivity
+The road near MG Road is full of potholes.,Road Damage,0.0,Positive,0.22499999999999998,0.47500000000000003
+Bus number 432 was 30 minutes late today.,Bus Delay,0.0772,Negative,-0.3,0.6
+Traffic signal is not working at Brigade junction.,Traffic Signal Issue,0.0,Neutral,0.0,0.0
+Street lights are off near the metro station.,Others,0.0,Positive,0.1,0.4
+There is a deep crack in the main highway surface.,Road Damage,0.0,Positive,0.08333333333333333,0.3666666666666667
+My morning bus never arrives on time.,Bus Delay,0.0,Neutral,0.0,0.0
+Signal timing at Silk Board is wrong.,Traffic Signal Issue,-0.4767,Negative,-0.5,0.9
+Garbage dumped on footpath beside the road.,Others,-0.4019,Neutral,0.0,0.0
+Flyover construction is blocking half the road at KR Puram.,Road Damage,-0.3818,Negative,-0.16666666666666666,0.16666666666666666
+Bus stop shelter is broken at Indiranagar.,Bus Delay,-0.6486,Negative,-0.4,0.4
+Green signal lasts only 5 seconds at Marathahalli junction.,Traffic Signal Issue,0.0,Negative,-0.1,0.65
+Footpath tiles are broken and dangerous near Forum Mall.,Road Damage,-0.7351,Negative,-0.3,0.5666666666666668
+BMTC bus 274 skipped my stop twice this week.,Bus Delay,-0.296,Neutral,0.0,0.0
+Traffic lights are flickering randomly at Koramangala.,Traffic Signal Issue,0.0,Negative,-0.5,0.5
+Manhole uncovered near Shivajinagar bus stand.,Road Damage,0.0,Positive,0.1,0.4
+Street flooded after light rain due to clogged drains.,Others,0.0,Positive,0.1375,0.5375
+Bus 365 never arrives before 9 AM on weekdays.,Bus Delay,0.0,Neutral,0.0,0.0
+Too much dust from unpaved road in Whitefield.,Road Damage,0.0,Positive,0.2,0.2
+No pedestrian signal at Sony World junction.,Traffic Signal Issue,-0.296,Neutral,0.0,0.0
+Bus number 210 doesn't follow scheduled time.,Bus Delay,0.0772,Neutral,0.0,0.0
+Giant pothole at Banaswadi has caused accidents.,Road Damage,-0.3182,Neutral,0.0,1.0
+Overhead signal board is hanging loose near Majestic.,Traffic Signal Issue,-0.3182,Positive,0.011538461538461539,0.33461538461538465
+Frequent power cuts affecting street lights at HSR Layout.,Others,-0.296,Positive,0.1,0.3
+Garbage burning near outer ring road pollutes air.,Others,-0.4939,Positive,0.1,0.4
+Traffic cop missing at peak hours near Hebbal Flyover.,Traffic Signal Issue,-0.296,Negative,-0.05,0.225
+My evening bus is always overcrowded and late.,Bus Delay,0.0,Negative,-0.3,0.6
+Divider broken near Domlur flyover – unsafe for vehicles.,Road Damage,-0.4767,Negative,-0.15000000000000002,0.4
+Red signal stuck on for 10 mins near Jayanagar.,Traffic Signal Issue,-0.25,Positive,0.05,0.2
+Road caved in near Cantonment railway station.,Road Damage,0.0,Positive,0.1,0.4
+Bus driver refused to stop at official bus stop.,Bus Delay,-0.6808,Neutral,0.0,0.0
+Signal shows green for both directions – causing confusion.,Traffic Signal Issue,-0.296,Negative,-0.2,0.3
+No warning signs near ongoing metro digging at MG Road.,Others,-0.5574,Positive,0.1,0.4
+Bus tracking app shows wrong arrival time frequently.,Bus Delay,-0.4767,Negative,-0.2,0.6
+Sharp turn at CV Raman Road has no warning boards.,Road Damage,-0.5574,Negative,-0.125,0.75
+Bus conductor very rude and doesn’t issue tickets.,Bus Delay,-0.5095,Negative,-0.39,0.78
+Pedestrian crossing signal never turns green.,Traffic Signal Issue,0.0,Negative,-0.2,0.3
+Speed bumps unmarked and too high at Sarjapur Road.,Road Damage,0.0,Positive,0.16,0.54
+Bus routes to ITPL are not reliable post 8 PM.,Bus Delay,0.0,Neutral,0.0,0.0
+Street lights damaged after tree fell last week.,Others,-0.4404,Neutral,0.0,0.06666666666666667
+Signal timing at Richmond Circle is completely off.,Traffic Signal Issue,0.0,Positive,0.1,0.4
