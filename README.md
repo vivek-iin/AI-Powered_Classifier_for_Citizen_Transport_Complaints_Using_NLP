@@ -15,4 +15,19 @@ The system performs sentiment analysis and complaint classification by processin
 - Model evaluation using accuracy, precision, recall, and F1-score
 - Output of labeled complaint datasets
 
-## Project Structure
+## Requirements
+
+You can install the required packages using pip. A `requirements.txt` file can be generated if needed.
+
+Common packages:
+
+- pandas
+- scikit-learn
+- textblob
+- matplotlib
+- seaborn
+
+Install them with:
+
+```bash
+pip install pandas scikit-learn textblob matplotlib seaborn
